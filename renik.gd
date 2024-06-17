@@ -401,8 +401,8 @@ func _validate_property(property):
 
 '''
 
-func _process(_delta: float) -> void:
-	update_ik()
+#func _process(_delta: float) -> void:
+#	update_ik()
 
 #func _notification (p_what: int) -> void:
 #	match p_what:
